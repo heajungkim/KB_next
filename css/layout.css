@@ -1,0 +1,150 @@
+.icon_top {position:fixed; top:200px; display:show;}
+* {
+	margin: 0px; padding: 0px;
+}
+body {
+	margin: 0px; padding: 0px;
+}
+div {
+	margin: 0px; padding: 0px;
+}
+ul {
+	margin: 0px; padding: 0px;
+}
+li {
+	margin: 0px; padding: 0px;
+}
+dl {
+	margin: 0px; padding: 0px;
+}
+dt {
+	margin: 0px; padding: 0px;
+}
+dd {
+	margin: 0px; padding: 0px;
+}
+ol {
+	margin: 0px; padding: 0px;
+}
+p {
+	margin: 0px; padding: 0px;
+}
+h1 {
+	margin: 0px; padding: 0px;
+}
+h2 {
+	margin: 0px; padding: 0px;
+}
+h3 {
+	margin: 0px; padding: 0px;
+}
+h4 {
+	margin: 0px; padding: 0px;
+}
+h5 {
+	margin: 0px; padding: 0px;
+}
+h6 {
+	margin: 0px; padding: 0px;
+}
+form {
+	margin: 0px; padding: 0px;
+}
+img {
+	margin: 0px; padding: 0px; vertical-align: top;
+}
+span {
+	margin: 0px; padding: 0px;
+}
+table {
+	margin: 0px; padding: 0px;
+}
+tr {
+	margin: 0px; padding: 0px;
+}
+td {
+	margin: 0px; padding: 0px;
+}
+select {
+	margin: 0px; padding: 0px;
+}
+input {
+	margin: 0px; padding: 0px;
+}
+textarea {
+	margin: 0px; padding: 0px;
+}
+option {
+	margin: 0px; padding: 0px;
+}
+body {
+	color: rgb(169, 169, 169); font-size: 12px;
+}
+body {
+	font-family: "Nanum Gothic", sans-serif;
+}
+a {
+	outline: 0px;
+}
+a:link {color: #fff; font-size: 12px; text-decoration: none;}
+a:hover {color: #fff; font-size: 12px; text-decoration: none;}
+a:visited {color: #fff; font-size: 12px; text-decoration: none;}
+
+
+
+body {
+ background:#ffffff	/* url(../img/typeb-bg.jpg) no-repeat 0px 0px; */
+}
+select {
+	border-radius: 0px;
+}
+
+#header {background:#dddddd /* url(../img/bu_line.gif) no-repeat 0px 0px; width: 250px; overflow: hidden; position: fixed; z-index: 5;margin:0px 0 0 0; height:100%;*/}
+#header .head {margin: auto; width: 100%; overflow: hidden;} /*  밑에 메뉴명 링크 영역 */
+#header .head  span{font-weight:bold;padding:10px 0px 0 20px;display:block;}
+#header .head  span a:link {color: #fff; font-size: 14px; text-decoration: none;}
+#header .head  span a:hover,visited {color: red; font-size: 14px; text-decoration:underline;}
+
+
+
+.etc01 a:link {color: blue; font-size: 12px; text-decoration: none;}
+.etc01 a:hover {color: #fff; font-size: 12px; text-decoration: none;}
+.etc01 a:visited {color: #fff; font-size: 12px; text-decoration: none;}
+
+.ranklist a{color:yellow}
+.ranklist a:hover{color:#fff;text-decoration:none}
+
+.ranklist02 a{color:#99f8fe;}
+.ranklist02 a:hover{color:#fff;text-decoration:none}
+
+
+.etc01 {color:#f15738;display:inline;}
+
+
+#header .head .all_menu {width: 32px; display: none;}
+#header .head .all_menu img {width: 100%;}
+
+#wrap {text-align:center;background:#fff;}
+
+.bg1 {background:#333333;}
+img {margin:20px 1px 20px 1px; }
+
+.bg2 {background:#333333; text-align:center;}
+.bg2 img {width:22%;}
+
+.box01 a{color:#596473;}
+.box01 a:hover{color:#fff;text-decoration:none}
+
+#index { /*  url(../img/bg1.gif) repeat 0px 0px; width: 100%; overflow: hidden; position: fixed; z-index: 5;margin:0 0 0 0; height:100%;-webkit-box-shadow: 0px 30px 75px -13px rgba(0,0,0,0.88);
+-moz-box-shadow: 0px 30px 75px -13px rgba(0,0,0,0.88);box-shadow: 0px 30px 75px -13px rgba(0,0,0,0.88);*/}
+
+#index01 {background:#ffffff width: 100%;}
+
+#index .box01 {background:#fff url(../img/280.jpg) no-repeat 0px 0px;; margin:0 auto; width: 900px;height:400px;margin-top:200px; box-shadow: 0px 30px 75px -13px rgba(145,141,87,0.88);} /*  밑에 메뉴명 링크 영역 */
+
+#index .box01 p{padding:55px 10px 0px 250px;color:#2c8baa;display: block;line-height:35px;font-size:28px;}
+
+#index .box01 span{padding:0px 10px 0 250px;color:#000;display: block;line-height:28px;}
+#index .box01 span a:link {color:#000; font-size: 16px; text-decoration: none;}
+#index .box01 span a:hover,visited {color: red; font-size: 16px; text-decoration:underline;}
+
